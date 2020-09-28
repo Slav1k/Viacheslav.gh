@@ -1,0 +1,30 @@
+body {
+}
+.header video{
+	position: relative; 
+	z-index: 0; 
+	top: 0px; 
+	left: 0px; 
+	min-width: 100%; 
+	min-height: 100%; 
+	height: 969px; 
+	width: 1724px; 
+	margin-top: -5px; 
+	margin-left: -383px;
+}
+.wrapper{
+	display: table-cell;
+	width: 1200px;
+	height: 969px;
+	text-align: center;
+    vertical-align: middle;
+    position: relative;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+.tittle{
+	font-family: 'Roboto',Arial,sans-serif;
+	font-size: 52px;
+    line-height: 1.23;
+    
+}
